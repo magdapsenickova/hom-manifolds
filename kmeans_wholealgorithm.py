@@ -1,3 +1,5 @@
+# Adapted from: https://www.geeksforgeeks.org/k-means-clustering-introduction/
+
 import numpy as np
 import random
 from geomstats.geometry.hypersphere import Hypersphere
